@@ -23,7 +23,7 @@ In addition, I have digged into a set of fields, such as [**AI Infrastructure**]
 News
 ------
 * [08/2024] **(Paper)** Our work SuperFE (long version) is accepted to [EuroSys 2025](https://dl.acm.org/doi/10.1145/3689031.3696081){:target="\_blank"}.
-* [07/2023] **(Career)** I graduate from Tsinghua University and joine Huawei, marking the beginning of a new career phase.
+* [07/2023] **(Career)** I graduate from Tsinghua University and joine Huawei.
 * [09/2022] **(Paper)** Our work Bolt (journal version) is accepted to [TON 2022](https://ieeexplore.ieee.org/document/9875219){:target="\_blank"}.
 * [03/2022] **(Paper)** Our work NetHCF (journal version) is accepted to [TDSC 2022](https://ieeexplore.ieee.org/document/9740002){:target="\_blank"}.
 * [12/2021] **(Paper)** Our work IMap (long version) is accepted to [NSDI 2022](https://www.usenix.org/conference/nsdi22){:target="\_blank"}.
@@ -32,7 +32,7 @@ News
 
 Selected Publications
 ------
-* [SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications](/publications/2025-03-EuroSys-SuperFE). **<font color="#6384E2">[NSDI'22]</font>**  
+* [SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications](/publications/2025-03-EuroSys-SuperFE). **<font color="#6384E2">[EuroSys'25]</font>**  
 Menghao Zhang\*, **Guanyu Li\***, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.  
 *CCF-A/TH-CPL-A, full paper acceptance ratio: 85/696 = 12.2%.*
 * [IMap: Fast and Scalable In-Network Scanning with Programmable Switches](/publications/2022-04-NSDI-IMap). **<font color="#6384E2">[NSDI'22]</font>**  
