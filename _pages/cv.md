@@ -21,15 +21,15 @@ Basic
 **Place of Birth:** Liaocheng, Shandong, China  
 **E-mail:** dracula.guanyu.li@gmail.com  
 **Address:** FIT Building 4-206, Tsinghua University, Beijing, China  
-**Website:** [guanyu.li](https://guanyu.li){:target="\_blank"}  
+**Website:** [guanyu.li](https://guanyu.li){:target="\_blank"}, [gavyndracula.github.io](https://gavyndracula.github.io){:target="\_blank"}  
 
 Education
 ======
-* 2018 to now : **Ph.D.** student
+* 2018 to 2023: **Ph.D.** degree
   * [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}
   * Advisor: [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"} and [Prof. Jun Bi (late)](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"}
   * Direction: Employ programmable networks and kernels to enhance the security of systems
-  * Publication: 14 papers on NSDI, ICNP, NDSS, RAID, TON, etc
+  * Publication: 15 papers on NSDI, ICNP, NDSS, RAID, TON, etc
 * 2014 to 2018: **B.Eng.** degree
   * [School of Computer Science & Technology](http://cs.hust.edu.cn){:target="\_blank"}, [Huazhong University of Science and Technology (HUST)](http://www.hust.edu.cn){:target="\_blank"}
   * Class: The experimental class of excellent engineers
@@ -37,12 +37,16 @@ Education
 
 Work Experience
 ======
+* **2023 to now: DPU Research Engineer**
+  * Place: [Huawei](https://www.huawei.com/){:target="\_blank"} 2012 Institute CSI
+  * Duties: DPU/SmartNIC/AINIC Micro-Architecture Optimization and System/Application Acceleration
+  * Supervisor: Dr. Cheng Zhang 
 * Summer 2021: Security Researcher Intern
   * Place: [QiAnxin](https://www.qianxin.com//){:target="\_blank"}
   * Duties: Protocol Information Leakage Exploring
   * Supervisor: Dr. Shujun Tang
 * Summer 2020: Software Engineer Intern
-  * Place: [Huawei](https://www.huawei.com/){:target="\_blank"}
+  * Place: [Huawei](https://www.huawei.com/){:target="\_blank"} 2012 Institute CRI
   * Duties: Programmable Networking System Develping
   * Supervisor: Dr. Xuya Jia
 * Summer 2017: Software Engineer Intern
